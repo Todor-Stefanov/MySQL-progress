@@ -105,20 +105,23 @@ Use the SoftUni database and insert some data using SQL queries.
 
 
 # 14.	Basic Select All Fields
-Use the soft_uni database and first select all records from the towns, then from departments and finally from employees table. Use SQL queries and submit them to Judge at once. Submit your query statements as Prepare DB & Run queries.
+Use the soft_uni database and first select all records from the towns, then from departments and finally from employees table. Use SQL queries and submit them to Judge at once.  
+
 # 15.	Basic Select All Fields and Order Them
 Modify queries from previous problem by sorting:
-•	towns - alphabetically by name
-•	departments - alphabetically by name
-•	employees - descending by salary
-Submit your query statements as Prepare DB & Run queries.
+-	towns - alphabetically by name
+-	departments - alphabetically by name
+-	employees - descending by salary
+
 # 16.	Basic Select Some Fields
 Modify queries from previous problem to show only some of the columns. For table:
-•	towns – name
-•	departments – name
-•	employees – first_name, last_name, job_title, salary
-Keep the ordering from the previous problem. Submit your query statements as Prepare DB & Run queries.
+-	towns – name
+-	departments – name
+-	employees – first_name, last_name, job_title, salary
+Keep the ordering from the previous problem.  
+
 # 17.	Increase Employees Salary
-Use softuni database and increase the salary of all employees by 10%. Then select only salary column from the employees table. Submit your query statements as Prepare DB & Run queries.
+Use softuni database and increase the salary of all employees by 10%. Then select only salary column from the employees table.  
+
 # 18.	Delete All Records
-Use SQL query to delete all records from the table with name occupancies. Submit your query statements as Run skeleton, run queries & check DB. 
+Use SQL query to delete all records from the table with name occupancies.
