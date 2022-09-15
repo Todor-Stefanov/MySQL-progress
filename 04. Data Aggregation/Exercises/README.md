@@ -118,7 +118,7 @@ Example:
 |Venomous Tongue|	1|	13.147500|
 |Troll Chest	|0	|21.623571|
 
-
+# Part II - Soft_uni Database
 ## 12.	 Employees Minimum Salaries
 That's it! You no longer work for Mr. Bodrog. You have decided to find a proper job as an analyst in SoftUni.     
 It's not a surprise that you will use the soft_uni database.    
