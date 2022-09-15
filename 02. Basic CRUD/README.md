@@ -1,6 +1,5 @@
-#### Built-in Functions
-- Functions in MySQL Server;
-- String Functions;
-- Arithmetical Operators and Numeric Functions;
-- Date Functions;
-- Wildcards.
+#### Basic CRUD
+- Query Basics;
+- Retrieving Data;
+- Writing Data in Tables;
+- Modifying Existing Records.
