@@ -1,5 +1,5 @@
 # 0. Create Database
-CREATE DATABASE minions;
+CREATE SCHEMA minions;
 
 # 1. Create Tables
 USE minions;
@@ -102,7 +102,7 @@ CHANGE COLUMN username
 username VARCHAR(50) UNIQUE;
 
 # 11. Movies Database
-CREATE DATABASE movies;
+CREATE SCHEMA movies;
 USE movies;
 
 CREATE TABLE directors(
@@ -169,7 +169,7 @@ VALUES
 ('TestName5');
 
 # 12. Car Rental Database
-CREATE DATABASE car_rental;
+CREATE SCHEMA car_rental;
 USE car_rental;
 
 CREATE TABLE categories(
@@ -262,7 +262,7 @@ VALUES
 
 # 13.	Basic Insert
 
-CREATE DATABASE soft_uni;
+CREATE SCHEMA soft_uni;
 USE soft_uni;
 
 CREATE TABLE towns(
