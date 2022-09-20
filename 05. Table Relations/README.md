@@ -1,7 +1,7 @@
-Table Relations
+# Table Relations
 
-• Database design;
-• Table Relation;
-• Retrieving Related Data;
-• Cascade Operations;
-• E/R Diagram.
+- Database design;
+- Table Relation;
+- Retrieving Related Data;
+- Cascade Operations;
+- E/R Diagram.
